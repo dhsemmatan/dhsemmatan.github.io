@@ -1,4 +1,6 @@
- h1{
+<link rel="stylesheet" href="/style.css" />
+
+h1{
   font-family: bitter;
   color:light blue;
 }
